@@ -20,5 +20,9 @@ public class Calculator {
     public int square(int a) {
         return a * a;
     }
+    // Function to return the cube of a number
+    public int cube(int a) {
+        return a * a * a;
+    }
 
 
